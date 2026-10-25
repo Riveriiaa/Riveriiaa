@@ -8,7 +8,7 @@ I'm interested in IoT and software that interacts with hardware. My coursework i
 
 | Repository | Contents |
 | --- | --- |
-| [Python exercises](https://github.com/Riveriiaa/python-harjoitukset) | Programming fundamentals, classes and inheritance, MySQL queries, API clients and small Flask endpoints. |
-| [JavaScript exercises](https://github.com/Riveriiaa/JavaScript---teht-vi-) | Browser programming, DOM manipulation, forms and a TV show search using the TVmaze API. |
+| [Python exercises](https://github.com/Riveriiaa/python-exercises) | Programming fundamentals, classes and inheritance, MySQL queries, API clients and small Flask endpoints. |
+| [JavaScript exercises](https://github.com/Riveriiaa/javascript-exercises) | Browser programming, DOM manipulation, forms and a TV show search using the TVmaze API. |
 
 These repositories contain individual learning exercises. Each repository includes an overview and instructions for running the examples.

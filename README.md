@@ -2,7 +2,7 @@
 
 ICT engineering student at Metropolia University of Applied Sciences, based in Helsinki, Finland.
 
-I'm interested in IoT and software that interacts with hardware. My coursework includes Python, JavaScript, SQL, object-oriented programming and HTTP APIs.
+I'm interested in IoT and software that interacts with hardware. My coursework includes Python, JavaScript, SQL, CSS, object-oriented programming and HTTP APIs.
 
 ## Coursework
 
